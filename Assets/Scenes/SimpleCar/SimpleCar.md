@@ -10,3 +10,8 @@ minima in gradient descent?
 
 * 1/22/2020 - Ran training with the same configuration unsuccessfully.
 Further convinced this has to do with local minima in gradient descent.
+Below is an example or numerous runs using the same configurations.
+
+	![Training results](./Docs/tensorboard_results.png)
+
+
