@@ -1,6 +1,6 @@
-# UnityML
+# UnityMLagentsCar
 
-Simple self driving car in ML using reinforcement learning
+Simple self driving car using Unity ML-agents and reinforcement learning
 
 <img src="Assets/Scenes/SimpleCar/Docs/simple-ml-car.gif" alt="drawing" width="500"/>
 <br>
